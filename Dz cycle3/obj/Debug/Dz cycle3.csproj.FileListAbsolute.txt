@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\Dz cycle3\bin\Debug\Dz cycle3.exe.config
+C:\Users\даня f\source\repos\Dz cycle3\bin\Debug\Dz cycle3.exe
+C:\Users\даня f\source\repos\Dz cycle3\bin\Debug\Dz cycle3.pdb
+C:\Users\даня f\source\repos\Dz cycle3\obj\Debug\Dz cycle3.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\Dz cycle3\obj\Debug\Dz cycle3.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\Dz cycle3\obj\Debug\Dz cycle3.exe
+C:\Users\даня f\source\repos\Dz cycle3\obj\Debug\Dz cycle3.pdb

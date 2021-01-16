@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZ cycle\bin\Debug\DZ cycle.exe.config
+C:\Users\даня f\source\repos\DZ cycle\bin\Debug\DZ cycle.exe
+C:\Users\даня f\source\repos\DZ cycle\bin\Debug\DZ cycle.pdb
+C:\Users\даня f\source\repos\DZ cycle\obj\Debug\DZ cycle.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\DZ cycle\obj\Debug\DZ cycle.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ cycle\obj\Debug\DZ cycle.exe
+C:\Users\даня f\source\repos\DZ cycle\obj\Debug\DZ cycle.pdb
