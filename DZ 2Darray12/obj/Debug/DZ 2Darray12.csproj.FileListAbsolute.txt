@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZ 2Darray12\bin\Debug\DZ 2Darray12.exe.config
+C:\Users\даня f\source\repos\DZ 2Darray12\bin\Debug\DZ 2Darray12.exe
+C:\Users\даня f\source\repos\DZ 2Darray12\bin\Debug\DZ 2Darray12.pdb
+C:\Users\даня f\source\repos\DZ 2Darray12\obj\Debug\DZ 2Darray12.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ 2Darray12\obj\Debug\DZ 2Darray12.exe
+C:\Users\даня f\source\repos\DZ 2Darray12\obj\Debug\DZ 2Darray12.pdb
+C:\Users\даня f\source\repos\DZ 2Darray12\obj\Debug\DZ 2Darray12.csprojAssemblyReference.cache

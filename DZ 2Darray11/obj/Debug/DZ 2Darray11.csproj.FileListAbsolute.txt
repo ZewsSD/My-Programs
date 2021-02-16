@@ -1,0 +1,6 @@
+C:\Users\даня f\source\repos\DZ 2Darray11\bin\Debug\DZ 2Darray11.exe.config
+C:\Users\даня f\source\repos\DZ 2Darray11\bin\Debug\DZ 2Darray11.exe
+C:\Users\даня f\source\repos\DZ 2Darray11\bin\Debug\DZ 2Darray11.pdb
+C:\Users\даня f\source\repos\DZ 2Darray11\obj\Debug\DZ 2Darray11.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ 2Darray11\obj\Debug\DZ 2Darray11.exe
+C:\Users\даня f\source\repos\DZ 2Darray11\obj\Debug\DZ 2Darray11.pdb
